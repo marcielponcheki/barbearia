@@ -3,5 +3,10 @@ body {
 }
 
 #banner {
-width: 100%;
+    width: 100%;
 }
+
+.principal{
+    background: #CCCCCC;
+    paddyng: 30px;
+} 
