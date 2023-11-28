@@ -10,3 +10,19 @@ body {
     background: #CCCCCC;
     padding: 30px;
 } 
+
+.titulo-principal{
+    padding: 30px;
+}
+
+.titulo-centralizado {
+    text-aling: center;
+}
+
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}    
